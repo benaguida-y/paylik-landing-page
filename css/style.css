@@ -1,0 +1,50 @@
+.big_title {
+  margin-bottom: 50px;
+  font-size: 60px;
+  margin-top: 40px;
+}
+
+.big_title_p {
+  font-size: 20px;
+  text-align: justify;
+}
+
+#btnn {
+  border-radius: 50px;
+  min-width: fit-content;
+  width: 250px;
+  height: 45px;
+  margin-top: 30px;
+  transition: all 0.5s;
+}
+
+#btnn:hover {
+  transform: scale(1.05);
+  transition: all 0.5s;
+}
+
+#offrez {
+  text-decoration: none;
+}
+
+#offrez {
+  font-weight: 600;
+}
+
+.nav-link {
+  color: white;
+  margin-left: 10px;
+}
+
+#noscp {
+  text-transform: uppercase;
+}
+
+.conditioncopyright {
+  color: white;
+  text-decoration: none;
+}
+
+.conditioncopyright:hover {
+  text-decoration: underline;
+}
